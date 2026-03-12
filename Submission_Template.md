@@ -86,7 +86,7 @@ module.exports = mongoose.model('Book', bookSchema);
 
 ## 2. Server Terminal Output
 
-![Screenshot of terminal running `npm start` showing "Server running on port 5000" and "MongoDB Connected" goes here]
+**(📸 ADD YOUR SCREENSHOT HERE: Terminal showing `Server running on port 5000` and `MongoDB Connected`)**
 
 ---
 
@@ -277,16 +277,16 @@ module.exports = mongoose.model('Book', bookSchema);
 
 ## 4. MongoDB Storage (Atlas)
 
-![Screenshot of MongoDB Atlas dashboard showing the `books` collection with inserted documents goes here]
+**(📸 ADD YOUR SCREENSHOT HERE: MongoDB Atlas dashboard showing the `books` collection with inserted documents)**
 
 ---
 
 ## 5. Deployment Links and Render Status
 
 **GitHub Repository URL:** 
-[Insert your GitHub link here]
+https://github.com/0Tusharbhardwaj/mse1FSD
 
 **Render Live API URL:** 
-[Insert your Render application link here, e.g., https://library-backend-xyz.onrender.com]
+https://mse1fsd.onrender.com/books
 
-![Screenshot of the Render dashboard showing "Deployed" / "Live" status goes here]
+**(📸 ADD YOUR SCREENSHOT HERE: Render dashboard showing "Deployed" / "Live" status)**
