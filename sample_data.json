@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "author": "Robert C. Martin",
+    "isbn": "978-0132350884",
+    "genre": "Computer Science",
+    "publisher": "Prentice Hall",
+    "totalCopies": 5,
+    "publicationYear": 2008,
+    "shelfLocation": "A1-Rack1",
+    "bookType": "Circulating"
+  },
+  {
+    "title": "The Pragmatic Programmer: Your Journey to Mastery",
+    "author": "David Thomas, Andrew Hunt",
+    "isbn": "978-0135957059",
+    "genre": "Software Engineering",
+    "publisher": "Addison-Wesley Professional",
+    "totalCopies": 3,
+    "publicationYear": 2019,
+    "shelfLocation": "A1-Rack2",
+    "bookType": "Reference"
+  },
+  {
+    "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+    "isbn": "978-0201633610",
+    "genre": "Computer Science",
+    "publisher": "Addison-Wesley Professional",
+    "totalCopies": 2,
+    "publicationYear": 1994,
+    "shelfLocation": "A2-Rack1",
+    "bookType": "Reference"
+  }
+]
